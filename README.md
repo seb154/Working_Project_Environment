@@ -7,4 +7,4 @@
 5. Install Jupyter and Python packages (+ additional required packages)
 6. Create and save all packages to requirements.txt
 7. Run requirements.txt ("pip install -r requirements.txt")
-8. Commit changes and push to GitHub repo
+8. Commit changes and push to GitHub repo (git status ; git add ; git commit -m "message"; git push)
